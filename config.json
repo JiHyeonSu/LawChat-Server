@@ -1,0 +1,7 @@
+{
+  "legal_rag": {
+    "command": "python",
+    "args": ["mcp_server_legal.py"],
+    "transport": "stdio"
+  }
+}
